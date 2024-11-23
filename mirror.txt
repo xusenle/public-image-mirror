@@ -95,6 +95,7 @@ docker.io/goharbor/notary-signer-photon
 docker.io/goharbor/redis-photon
 docker.io/goharbor/registry-photon
 docker.io/goharbor/trivy-adapter-photon
+docker.io/golangci/golangci-lint
 docker.io/grafana/grafana
 docker.io/halohub/halo
 docker.io/istio/examples-bookinfo-details-v1
@@ -259,7 +260,9 @@ docker.io/otel/opentelemetry-collector
 docker.io/otel/opentelemetry-collector-contrib
 docker.io/percona/mongodb_exporter
 docker.io/phpmyadmin/phpmyadmin
+docker.io/portainer/agent
 docker.io/portainer/portainer-ce
+docker.io/portainer/portainer-ee
 docker.io/projecthami/hami
 docker.io/prom/alertmanager
 docker.io/prom/mysqld-exporter
@@ -342,6 +345,10 @@ ghcr.io/daocloud/dao-2048
 ghcr.io/daocloud/netmaterial
 ghcr.io/dexidp/dex
 ghcr.io/dtzar/helm-kubectl
+ghcr.io/elf-io/balancing-agent
+ghcr.io/elf-io/balancing-backend-server
+ghcr.io/elf-io/balancing-controller
+ghcr.io/elf-io/balancing-proxy-server
 ghcr.io/hwameistor/admission
 ghcr.io/hwameistor/apiserver
 ghcr.io/hwameistor/drbd9-bionic
@@ -410,6 +417,7 @@ ghcr.io/spiffe/spire-server
 ghcr.io/sumologic/tailing-sidecar
 ghcr.io/sumologic/tailing-sidecar-operator
 ghcr.io/timeplus-io/proton
+ghcr.io/zammad/zammad
 nvcr.io/nvidia/mellanox/doca-driver:24.04.*
 nvcr.io/nvidia/mellanox/network-operator
 nvcr.io/nvidia/pytorch
